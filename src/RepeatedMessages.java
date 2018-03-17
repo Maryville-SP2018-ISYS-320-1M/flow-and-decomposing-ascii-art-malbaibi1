@@ -17,7 +17,7 @@ public class RepeatedMessages {
         {       
           System.out.print("Milhouse did not test cootie positive.");    
             
-          System.out.println();          //to print a new line
+          System.out.println();                          //to print a new line
         } 
   }
 

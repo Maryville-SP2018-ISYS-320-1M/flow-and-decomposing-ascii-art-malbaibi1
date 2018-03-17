@@ -1,6 +1,6 @@
 /*
    ISYS 320
-   Name: Mansoor Albaibi
+   Name: Mansour Albaibi
    Date: 3/16/2018
 */
 
